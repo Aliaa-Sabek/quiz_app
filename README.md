@@ -7,9 +7,7 @@ Champ Quizz - A Quiz App
 - Flutter
 - Firebase
 
-## How to Install:
-- APK - https://play.google.com/store/apps/details?id=com.sumit401.champquizz
-- Web - https://champquizz.netlify.app/#/
+
 
 Project has two Sections Student and Faculty :
 - In Student you can participate in a Quiz.
@@ -33,5 +31,3 @@ Project has two Sections Student and Faculty :
 
 
 
-## Resources:
-http://pub.dev/
